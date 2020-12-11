@@ -1,7 +1,7 @@
 package io.github.hepan.singleton4;
 
 /**
- * 懒汉式第一种，线程安全但效率低
+ * 懒汉式第二种，线程安全但效率低
  *
  * @author hp
  * @describe
